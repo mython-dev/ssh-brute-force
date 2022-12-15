@@ -30,7 +30,7 @@ sudo ./install.sh
 python3 bruteforce.py
 ```
 
-<img src="https://github.com/mython-dev/ssh-brute-force/blob/main/screenshots/screenshots.png", width="500" height="600">
+<img src="https://github.com/mython-dev/ssh-brute-force/blob/main/screenshots/screenshots.png" width="500" height="600">
 
 ## Uninstallation  📁
 
