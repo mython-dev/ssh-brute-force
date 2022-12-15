@@ -6,9 +6,9 @@
 
 ## Contents
 
-- [Installation](##installation)
-- [Setup](##setup)
-- [Usage Brute force tool](##usage)
+- [Installation](##installation-floppy_disk)
+- [Setup](##setup-bulb)
+- [Usage Brute force tool](##usage-rocket)
 - [Uninstallation](##uninstallation)
 - [Defence from Brute Force](https://www.hackingarticles.in/defend-against-brute-force-attack-with-fail2ban)
 
