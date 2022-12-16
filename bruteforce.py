@@ -8,9 +8,6 @@
 
 # I think made an understandable code.
 
-
-# This script for ssh bruteforcing  tool written in python:)
-
 # System library
 
 import os
