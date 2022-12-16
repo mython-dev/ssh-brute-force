@@ -53,12 +53,18 @@ def clear():
 # Print lines slowly
 
 def sprint(text):
+    
+    """Print lines slowly"""
+    
     for line in text + '\n':
         stdout.write(line)
         stdout.flush()
         time.sleep(0.03)
 
 def check_os():
+    
+    """"Checks Operating Systems"""
+    
     os = platform
 
     if os == 'win'.lower() and 'win32'.lower():
@@ -127,6 +133,8 @@ def main():
     # function brute force     
 
     def sshbrute_forcer(host, username, password):
+        
+        """function brute force """
 
         port = '22' # port ssh.
 
