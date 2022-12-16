@@ -32,6 +32,7 @@ python3 bruteforce.py
 <p align = "center">
 <img src="https://github.com/mython-dev/ssh-brute-force/blob/main/screenshots/screenshots.png" width="600" height="700">
 </p>
+
 ## Uninstallation  📁
 
 ```
@@ -49,18 +50,18 @@ iPhone     | ❌
 MacOS      | ✅
 Windows    | Not tested -->
 
-###Tested on ✅
+### Tested on ✅
 
  - `Kali Linux`
  - `Ubuntu`
  - `Mac OS`
  - `Termux(Android)`
 
-###Not Tested on ❌
+### Not Tested on ❌
 
  - `Windows`
 
-####Requirements
+#### Requirements
 
 - `Python 3`
     - `sockets`
