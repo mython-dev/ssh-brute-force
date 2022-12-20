@@ -63,7 +63,7 @@ def sprint(text):
 
 def check_os():
     
-    """"Checks Operating Systems"""
+    """Checks Operating Systems"""
     
     os = platform
 
