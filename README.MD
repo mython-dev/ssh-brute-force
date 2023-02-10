@@ -6,10 +6,10 @@
 
 ## Contents
 
-- [Installation](##installation-floppy_disk)
-- [Setup](##setup-bulb)
-- [Usage Brute force tool](##usage-rocket)
-- [Uninstallation](##uninstallation)
+- [Installation](https://github.com/mython-dev/ssh-brute-force#installation-floppy_disk)
+- [Setup](https://github.com/mython-dev/ssh-brute-force#setup-bulb)
+- [Usage Brute force tool](https://github.com/mython-dev/ssh-brute-force#usage-rocket)
+- [Uninstallation](https://github.com/mython-dev/ssh-brute-force#uninstallation--)
 - [Defence from Brute Force](https://www.hackingarticles.in/defend-against-brute-force-attack-with-fail2ban)
 
 ## Installation :floppy_disk:
